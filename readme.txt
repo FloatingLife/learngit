@@ -1,4 +1,4 @@
-Git is goooooooooooooooooood.
+Giit is goooooooooooooooooood.
 <<<<<<< HEAD
 Git is goooooooood.
 =======
